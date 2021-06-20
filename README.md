@@ -5,8 +5,7 @@ With this script you will be able to make an anonymous account.
 
 1. The program will store the username of your accounts so you always can log back into them.
 2. It uses an anonymous email that will delete itself within 10 minutes.
-3. The only dependency is the python library ```bash 
-requests ```
+3. The only dependency is the python library ```requests```
 
 ## How to install
 ### Windows and Mac
