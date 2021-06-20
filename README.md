@@ -10,7 +10,9 @@ With this script you will be able to make an anonymous account.
 ## How to install
 ### Windows and Mac
 
-- With git
+Assuming you have python version 3.+ installed on your device
+
+##### With git
 
 1. Download and install git to your device to download the project : https://git-scm.com/downloads
 2. Open your terminal on your computer and run 
@@ -24,11 +26,18 @@ python3 getNewAccount.py
 
 Follow the instruction on your terminal to finish the signup process on geoguessr
 
-- On github
+##### On github
 
 1. Download the the .zip file by the green button on the top right where it says 'code'
 2. Extract the zip file
 3a. Run the python file 'getNewAccount.py' in your terminal
 3b. Run the python file by double clicking on the 'getNewAccount.py' to open the default IDE
+
+
+###### Remember to install requests
+
+```bash
+python3 -m pip install requests 
+```
 
 Enjoy :)
